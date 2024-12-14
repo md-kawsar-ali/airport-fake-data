@@ -1,0 +1,152 @@
+[
+  {
+    "id": "27544008",
+    "text": "London (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565050",
+    "text": "London Heathrow (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565051",
+    "text": "London Gatwick (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565052",
+    "text": "London Stansted (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565053",
+    "text": "London Luton (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565047",
+    "text": "London City (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565054",
+    "text": "London Southend (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95673743",
+    "text": "London (Canada)",
+    "hasAirport": true
+  },
+  {
+    "id": "128668435",
+    "text": "East London (South Africa)",
+    "hasAirport": true
+  },
+  {
+    "id": "128667235",
+    "text": "Derry (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "27537542",
+    "text": "New York (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565059",
+    "text": "New York Newark (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565058",
+    "text": "New York John F. Kennedy (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95565057",
+    "text": "New York LaGuardia (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95566280",
+    "text": "Stewart International (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95674044",
+    "text": "Newcastle (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "95673963",
+    "text": "Newquay (United Kingdom)",
+    "hasAirport": true
+  },
+  {
+    "id": "29475342",
+    "text": "New Zealand (New Zealand)",
+    "hasAirport": true
+  },
+  {
+    "id": "95673750",
+    "text": "New Orleans Louis Armstrong (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "29475159",
+    "text": "New Caledonia (New Caledonia)",
+    "hasAirport": true
+  },
+  {
+    "id": "29475337",
+    "text": "Papua New Guinea (Papua New Guinea)",
+    "hasAirport": true
+  },
+  {
+    "id": "128668190",
+    "text": "Buenos Aires Jorge Newbery (Argentina)",
+    "hasAirport": true
+  },
+  {
+    "id": "128667411",
+    "text": "Newcastle Williamtown (Australia)",
+    "hasAirport": true
+  },
+  {
+    "id": "200822888",
+    "text": "New Yogyakarta International (Indonesia)",
+    "hasAirport": true
+  },
+  {
+    "id": "95673799",
+    "text": "Newport News Williamsburg International (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "95674108",
+    "text": "New Haven (United States)",
+    "hasAirport": true
+  },
+  {
+    "id": "128667475",
+    "text": "New Plymouth (New Zealand)",
+    "hasAirport": true
+  },
+  {
+    "id": "95673498",
+    "text": "Indira Gandhi International  (India)",
+    "hasAirport": true
+  },
+  {
+    "id": "128667016",
+    "text": "Newman (Australia)",
+    "hasAirport": true
+  },
+  {
+    "id": "95674290",
+    "text": "New Bern (United States)",
+    "hasAirport": true
+  }
+]
