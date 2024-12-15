@@ -43,7 +43,7 @@
       "routes": ["VIE", "CGN", "CGN", "VIE"],
       "stops": "Nonstop",
       "price": "$530",
-      "type": "fastest",
+      "type": "best",
       "duration": "13h 30m"
     },
     {
@@ -105,7 +105,7 @@
       "routes": ["DOH", "CGN"],
       "stops": "Nonstop",
       "price": "$600",
-      "type": "best",
+      "type": "fastest",
       "duration": "2h 30m"
     }
   ]
