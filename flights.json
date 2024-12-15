@@ -46,7 +46,7 @@
     },
     {
       "id": 3,
-      "airlineLogo": "https://example.com/silk-way-west-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/silk-Way-west-airlines.svg",
       "airlineName": "Silk Way West Airlines",
       "tripType": "oneway",
       "flightDates": {
@@ -105,7 +105,7 @@
     },
     {
       "id": 6,
-      "airlineLogo": "https://example.com/silk-way-west-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/silk-Way-west-airlines.svg",
       "airlineName": "Silk Way West Airlines",
       "tripType": "roundtrip",
       "flightDates": {
@@ -166,7 +166,7 @@
     },
     {
       "id": 9,
-      "airlineLogo": "https://example.com/silk-way-west-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/silk-Way-west-airlines.svg",
       "airlineName": "Silk Way West Airlines",
       "tripType": "oneway",
       "flightDates": {
