@@ -25,7 +25,7 @@
     },
     {
       "id": 2,
-      "airlineLogo": "https://example.com/qatar-airways-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/qatar-airways.svg",
       "airlineName": "Qatar Airways",
       "tripType": "roundtrip",
       "flightDates": {
@@ -86,7 +86,7 @@
     },
     {
       "id": 5,
-      "airlineLogo": "https://example.com/qatar-airways-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/qatar-airways.svg",
       "airlineName": "Qatar Airways",
       "tripType": "oneway",
       "flightDates": {
@@ -145,7 +145,7 @@
     },
     {
       "id": 8,
-      "airlineLogo": "https://example.com/qatar-airways-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/qatar-airways.svg",
       "airlineName": "Qatar Airways",
       "tripType": "roundtrip",
       "flightDates": {
