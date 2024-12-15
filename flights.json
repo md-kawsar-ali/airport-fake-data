@@ -6,7 +6,7 @@
   "flights": [
     {
       "id": 1,
-      "airlineLogo": "https://example.com/spirit-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/spirit-airlines.svg",
       "airlineName": "Spirit Airlines",
       "tripType": "oneway",
       "flightDates": {
@@ -65,7 +65,7 @@
     },
     {
       "id": 4,
-      "airlineLogo": "https://example.com/spirit-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/spirit-airlines.svg",
       "airlineName": "Spirit Airlines",
       "tripType": "roundtrip",
       "flightDates": {
@@ -126,7 +126,7 @@
     },
     {
       "id": 7,
-      "airlineLogo": "https://example.com/spirit-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/spirit-airlines.svg",
       "airlineName": "Spirit Airlines",
       "tripType": "oneway",
       "flightDates": {
@@ -185,7 +185,7 @@
     },
     {
       "id": 10,
-      "airlineLogo": "https://example.com/spirit-logo.png",
+      "airlineLogo": "https://raw.githubusercontent.com/md-kawsar-ali/airport-fake-data/refs/heads/main/spirit-airlines.svg",
       "airlineName": "Spirit Airlines",
       "tripType": "roundtrip",
       "flightDates": {
